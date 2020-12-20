@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="mcq">
-        <item>The OSI model has ________layers:</item>
+        <item>1)The OSI model has ________layers:</item>
         <item>1</item>
         <item>6</item>
         <item>4</item>
         <item>7</item>
         <item>7</item>
-        <item>OSI stands for:</item>
+        <item>2)OSI stands for:</item>
         <item>open system interconnection</item>
         <item>operating system interface</item>
         <item>optical service implementation</item>
         <item>none of the mentioned</item>
         <item>open system interconnection</item>
-        <item>Which layer links the network support layers and user support layers:</item>
+        <item>3)Which layer links the network support layers and user support layers:</item>
         <item>session layer</item>
         <item>data link layer</item>
         <item>transport layer</item>
         <item>network layer</item>
         <item>transport layer</item>
-        <item>Which layer is responsible for process to process delivery:</item>
+        <item>4)Which layer is responsible for process to process delivery:</item>
         <item>network layer</item>
         <item>transport layer</item>
         <item>session layer</item>
         <item>data link layer</item>
         <item>transport layer</item>
-        <item>Which layer provides the services to user:</item>
+        <item>5)Which layer provides the services to user:</item>
 		<item>network layer</item>
         <item>transport layer</item>
         <item>session layer</item>
         <item>application layer</item>
         <item>application layer</item>
-        <item>This layer present in OSI model addition to layers in TCP/IP layers</item>
+        <item>6)This layer present in OSI model addition to layers in TCP/IP layers</item>
         <item>network layer</item>
         <item>presentation layer</item>
         <item>session layer</item>
         <item>b and c</item>
         <item>b and c</item>
-        <item>In OSI model, when data is sent from device A to device B, the 5th layer to recieve data at B is:</item>
+        <item>7)In OSI model, when data is sent from device A to device B, the 5th layer to recieve data at B is:</item>
 		<item>session layer</item>
         <item>data link layer</item>
         <item>transport layer</item>
         <item>network layer</item>
         <item>session layer</item>
-        <item> In Internet protocol stack, when data is sent from device A to device B, the 5th layer to receive data at B is:</item>
+        <item>8)In Internet protocol stack, when data is sent from device A to device B, the 5th layer to receive data at B is:</item>
 		<item>network layer</item>
         <item>transport layer</item>
         <item>session layer</item>
         <item>application layer</item>
         <item>application layer</item>
-        <item>The TCP/IP _______ layer is equivalent to the combined session, presentation, and application layers of the OSI model:</item>
+        <item>9)The TCP/IP _______ layer is equivalent to the combined session, presentation, and application layers of the OSI model:</item>
 		<item>network layer</item>
         <item>transport layer</item>
         <item>session layer</item>
         <item>application layer</item>
         <item>application layer</item>
-        <item>The _________ layer enables the users to access the network:</item>
+        <item>10)The _________ layer enables the users to access the network:</item>
 		<item>network layer</item>
         <item>transport layer</item>
         <item>session layer</item>
